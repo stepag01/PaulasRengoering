@@ -58,7 +58,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <div class="md:flex md:justify-between">
           <div class="mb-6 md:mb-0">
             <a href="" class="flex items-center">  
-              <RouterLink to="/"> <img src="../src/assets/logo-paulas-rengøring-blå.png" class="h-14 md:h-12 lg:h-20 lg:ml-3" alt="" /></RouterLink>
+              <RouterLink to="/"> <img src="../src/assets/PaulasRengøringLogo_mørkblå.png" class="h-14 md:h-12 lg:h-20 lg:ml-3" alt="" /></RouterLink>
               <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"></span>
             </a>
           </div>
