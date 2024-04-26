@@ -32,7 +32,7 @@
 
 <div class="bg-white dark:bg-white px-5 columns-1 md:columns-2 lg:px-52 lg:columns-2 lg:gap-x-0">
     <div class="inline-block md:hidden lg:hidden">
-        <img src="../assets/PaulasRengøringbillede.jpg" alt="Værdisæt">
+        <img src="../assets/cleaningimg.jpg" alt="">
     </div>
     <div class="bg-lightblue dark:bg-lightblue pb-10 text-darkgray dark:text-darkgray lg:py-5 lg:px-5">
         <div class="pt-0 pl-5 pb-3">
@@ -52,7 +52,7 @@
         </div>
     </div>
     <div class="hidden md:inline-block lg:inline-block">
-        <img src="../assets/PaulasRengøringbillede.jpg" alt="Værdisæt">
+        <img src="../assets/cleaninglady.webp" alt="Værdisæt">
     </div>
 </div>
 
@@ -75,7 +75,7 @@
 
 <div class="bg-white dark:bg-white columns-1 md:columns-1 lg:columns-2">
     <div class="inline-block md:hidden lg:inline-block">
-        <img src="../assets/Rengøring.png" alt="Rengøring">
+        <img src="../assets/cleaningimg.jpg" alt="Rengøring">
     </div>
     <div class="bg-lightgray dark:bg-lightgray px-5 lg:px-20">
         <p class="text-darkgray dark:text-darkgray pt-8 text-sm lg:text-sm lg:font-semibold lg:pt-10 lg:tracking-wider">GUIDE</p>
