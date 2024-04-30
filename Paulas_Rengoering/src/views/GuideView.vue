@@ -5,7 +5,7 @@
         <img class="object-cover" src="../assets/cleaningimg2.jpg" alt="Cleaning lady">
         
         <div class="absolute inset-0 flex flex-col items-center justify-center">
-            <h1 class="text-white text-xs md:text-2xl lg:text-xl pb-2 pt-20 md:pb-4 lg:pb-6 lg:pt-0">GUIDE</h1>
+            <h1 class="text-white text-xs md:text-xl lg:text-xl pb-2 pt-20 md:pb-4 lg:pb-6 lg:pt-0">GUIDE</h1>
             <p class="text-white text-base md:text-4xl lg:text-5xl pb-0 md:pb-2 lg:pb-2">SÅDAN FÅR DU MEST UD AF DIN</p>
             <p class="text-white text-base md:text-4xl lg:text-5xl pb-8 md:pb-4 lg:pb-0">RENGØRINGSHJÆLP</p>
         </div>
@@ -24,7 +24,7 @@
 
     <!--Guide-sektion-->
 <!--BOX 1-->
-<div class="flex flex-col justify justify-center w-3/4 mb-16 mx-auto md:mx-auto md:flex-col md:w-2/4 lg:flex-row md:w-full lg:w-full lg:mx-0 lg:mb-20">
+<div class="flex flex-col justify justify-center w-3/4 mb-16 mx-auto md:mx-auto md:flex-col md:w-1/2 lg:flex-row md:w-full lg:w-full lg:mx-0 lg:mb-20">
     <div class="lg:w-1/3">
             <img class="" src="../assets/Elderly-man.jpg" alt="Elderly man in front of tree"/>
     </div>
@@ -35,7 +35,7 @@
 </div>
 
 <!--BOX 2-->
-<div class="flex flex-col justify justify-center w-3/4 mb-16 mx-auto md:mx-auto md:flex-col md:w-2/4 lg:flex-row md:w-full lg:w-full lg:mx-0 lg:mb-20">
+<div class="flex flex-col justify justify-center w-3/4 mb-16 mx-auto md:mx-auto md:flex-col md:w-1/2 lg:flex-row md:w-full lg:w-full lg:mx-0 lg:mb-20">
     <div class="w-full p-4 lg:w-2/4 lg:pl-8 lg:pt-20 lg:pr-8 bg-lightgray">
         <h1 class="font-semibold text-base pb-2 lg:text-xl lg:pb-2">UDARBEJD EN ARBEJDSPLAN</h1>
         <p class="text-sm md:text-base lg:text-base">Det er altid fordelagtigt at udarbejde en plan over dine ønsker og behov, som du deler med din rengøringshjælp i den indledende fase. Det er ønsker og krav I sammen vil gennemgå, og få til at passe ind i dine behov. Det er rart for begge parter, at der er en plan at holde sig til. Det vil selvfølgelig være en plan der kan ændre sig, alt efter dine ønsker. Det er dine behov og ønsker, der er i centrum. </p>
@@ -46,7 +46,7 @@
 </div>
 
 <!--BOX 3-->
-<div class="flex flex-col justify justify-center w-3/4 mb-16 mx-auto md:mx-auto md:flex-col md:w-2/4 lg:flex-row md:w-full lg:w-full lg:mx-0 lg:mb-20">
+<div class="flex flex-col justify justify-center w-3/4 mb-16 mx-auto md:mx-auto md:flex-col md:w-1/2 lg:flex-row md:w-full lg:w-full lg:mx-0 lg:mb-20">
     <div class="lg:w-1/3">
             <img class="" src="../assets/withorwithoutcleaning.jpg" alt="Livingroom"/>
     </div>
@@ -57,7 +57,7 @@
 </div>
 
 <!--BOX 4-->
-<div class="flex flex-col justify justify-center w-3/4 mx-auto md:mx-auto md:flex-col md:w-2/4 lg:flex-row md:w-full lg:w-full lg:mx-0 lg:pb-28">
+<div class="flex flex-col justify justify-center w-3/4 mx-auto md:mx-auto md:flex-col md:w-1/2 lg:flex-row md:w-full lg:w-full lg:mx-0 lg:pb-28">
     <div class="w-full p-4 lg:w-2/4 lg:pl-8 lg:pt-24 lg:pr-8 bg-lightgray ">
         <h1 class="font-semibold text-base pb-2 lg:text-xl lg:pb-2">SKAL JEG VÆRE HJEMME?</h1>
         <p class="text-sm md:text-base lg:text-base">Ønsker du at være hjemme når rengøringshjælpen kommer, eller har du andre ærinder du vil foretage dig imens? Det er helt op til dig om du ønsker at være hjemme mens rengøringsopgaverne bliver udført, og er noget som enhver rengøringshjælp skal respektere. Det handler om, hvad der gør dig tryg, og hvad du har det bedst med. </p>
@@ -73,7 +73,7 @@
 
  
 <!--Servicefradrag-sektion-->
-    <div class="flex justify justify-center bg-blue h-64 w-full mt-16 pt-8 px-8 md:max-h-44 lg:h-60 lg:w-full lg:pt-10 lg:mb-20">
+    <div class="flex justify justify-center bg-blue h-52 max-h-32 min-h-60 w-full mt-16 mb-20 pt-6 px-8 md:h-32 md:max-h-40 md:pt-16 md:mb-16 lg:h-60 lg:w-full lg:pt-10 lg:mb-20">
         <div class="lg:w-2/3 lg:text-center">
             <h1 class="font-semibold text-lg md:text-2xl lg:text-3xl lg:pb-4">Husk at din rengøringshjælp går ind under ''Servicefradrag''</h1>
             <p class="text-sm md:text-base lg:text-base">Når du køber privat rengøring, skal du huske at gemme alle dine kvitteringer. Du kan nemlig trække beløb fra på din selvangivelse under rubrikken ”servicefradrag”, det varierer en smule beløbsmæssigt fra indkomstår til indkomstår, hvor stort et beløb du kan trække fra.</p>
