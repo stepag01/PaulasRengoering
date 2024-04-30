@@ -23,67 +23,55 @@
 
 
     <!--Book et formøde-sektion-->
-<div class="flex flex-col md:flex-col lg:flex-row w-full md:w-full lg:w-full">
-    <!--Box 1-->
-    <div class="mx-32 my-20 bg-white border border-gray">
-        <a href="#">
-            <img class="" src="../assets/Elderly-man.jpg" alt="Elderly man in front of tree"/>
-        </a>
-        <div class="p-5">
-            <a href="#">
-                <h5 class="mb-2 text-2xl lg:text-lg font-bold tracking-tight text-black">BOOK ET MØDE</h5>
-            </a>
-            <p class="mb-3 lg:text-base font-normal text-gray-700 dark:text-gray-400">Det er altid en god idé at booke et formøde, hvor du får lejlighed til at snakke med den person der skal stå for rengøringen af dit hjem. Det er dit hjem, og du skal føle dig tryg i samarbejdet. Rengøringshjælpen får mulighed for at se dit hjem, inden samarbejdet bliver sat i gang, og det vil give dem en god fornemmelse af, hvor meget tid de skal sætte af til de opgaver, du ønsker hjælp til. </p>
-        </div>
+<!--BOX 1-->
+<div class="flex flex-col md:flex-col lg:flex-row w-full md:w-full lg:w-full justify justify-center lg:mb-20">
+    <div class="lg:w-1/3">
+            <img class=" lg:object-right" src="../assets/Elderly-man.jpg" alt="Elderly man in front of tree"/>
     </div>
-
-    <!--Box 2-->
-    <div class="mx-32 my-20 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-        <a href="#">
-            <img class="rounded-t-lg" src="../assets/Elderly-man.jpg" alt="Elderly man in front of tree"/>
-        </a>
-        <div class="p-5">
-            <a href="#">
-                <h5 class="mb-2 text-2xl lg:text-lg font-bold tracking-tight text-black">UDARBEJD EN ARBEJDSPLAN</h5>
-            </a>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Det er altid fordelagtigt at udarbejde en plan over dine ønsker og behov, som du deler med din rengøringshjælp i den indledende fase. Det er ønsker og krav I sammen vil gennemgå, og få til at passe ind i dine behov. Det er rart for begge parter, at der er en plan at holde sig til. Det vil selvfølgelig være en plan der kan ændre sig, alt efter dine ønsker. Det er dine behov og ønsker, der er i centrum.</p>
-        </div>
+    <div class="lg:w-2/4 lg:pl-8 lg:pt-20 lg:pr-8 bg-lightgray ">
+        <h1 class="font-semibold lg:text-xl lg:pb-2">BOOK ET FORMØDE</h1>
+        <p class="">Det er vigtigt at du og din rengøringshjælp er på samme side, og har de samme forventninger til hinanden. Derfor er det en god idé at booke et formøde, hvor I kan mødes og tale om jeres forventninger til hinanden. På den måde kan I sikre jer, at I er enige om, hvad der skal rengøres, og hvordan det skal rengøres. </p>
     </div>
 </div>
 
-<div class="flex flex-col md:flex-col lg:flex-row w-full md:w-full lg:w-full">
-    <!--Box 3-->
-    <div class="mx-32 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-        <a href="#">
-            <img class="rounded-t-lg" src="../assets/Elderly-man.jpg" alt="Elderly man in front of tree"/>
-        </a>
-        <div class="p-5">
-            <a href="#">
-                <h5 class="mb-2 text-2xl lg:text-lg font-bold tracking-tight text-black">MED ELLER UDEN OPRYDNING?</h5>
-            </a>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Det er en god idé, at klarlægge om oprydningen er noget du selv vil stå for, eller om du ønsker at det er noget rengøringshjælpen tager sig af i forbindelse med rengøringen. Det er noget du som kunde beslutter, og det vil altid være muligt at få hjælp til dette.</p>
-        </div>
+<!--BOX 2-->
+<div class="flex flex-col md:flex-col lg:flex-row w-full md:w-full lg:w-full justify justify-center lg:mb-20">
+    <div class="lg:w-2/4 lg:pl-8 lg:pt-20 lg:pr-8 bg-lightgray">
+        <h1 class="font-semibold lg:text-xl lg:pb-2">UDARBEJD EN ARBEJDSPLAN</h1>
+        <p class="">Det er altid fordelagtigt at udarbejde en plan over dine ønsker og behov, som du deler med din rengøringshjælp i den indledende fase. Det er ønsker og krav I sammen vil gennemgå, og få til at passe ind i dine behov. Det er rart for begge parter, at der er en plan at holde sig til. Det vil selvfølgelig være en plan der kan ændre sig, alt efter dine ønsker. Det er dine behov og ønsker, der er i centrum. </p>
     </div>
-
-    <!--Box 4-->
-    <div class="mx-32 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-        <a href="#">
-            <img class="rounded-t-lg" src="../assets/Elderly-man.jpg" alt="Elderly man in front of tree"/>
-        </a>
-        <div class="p-5">
-            <a href="#">
-                <h5 class="mb-2 text-2xl lg:text-lg font-bold tracking-tight text-black">SKAL JEG VÆRE HJEMME IMENS?</h5>
-            </a>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Ønsker du at være hjemme når rengøringshjælpen kommer, eller har du andre ærinder du vil foretage dig imens? Det er helt op til dig om du ønsker at være hjemme mens rengøringsopgaverne bliver udført, og er noget som enhver rengøringshjælp skal respektere. Det handler om, hvad der gør dig tryg, og hvad du har det bedst med.</p>
-        </div>
+    <div class="lg:w-1/3">
+            <img class=" lg:object-right" src="../assets/planning.jpg" alt="Making a plan"/>
     </div>
 </div>
+
+<!--BOX 3-->
+<div class="flex flex-col md:flex-col lg:flex-row w-full md:w-full lg:w-full justify justify-center lg:mb-20">
+    <div class="lg:w-1/3">
+            <img class=" lg:object-right" src="../assets/withorwithoutcleaning.jpg" alt="Livingroom"/>
+    </div>
+    <div class="lg:w-2/4 lg:pl-8 lg:pt-20 lg:pr-8 bg-lightgray ">
+        <h1 class="font-semibold lg:text-xl lg:pb-2">MED ELLER UDEN OPRYDNING?</h1>
+        <p class="">Det er en god idé, at klarlægge om oprydningen er noget du selv vil stå for, eller om du ønsker at det er noget rengøringshjælpen tager sig af i forbindelse med rengøringen. Det er noget du som kunde beslutter, og det vil altid være muligt at få hjælp til dette.</p>
+    </div>
+</div>
+
+<!--BOX 4-->
+<div class="flex flex-col md:flex-col lg:flex-row w-full md:w-full lg:w-full justify justify-center">
+    <div class="lg:w-2/4 lg:pl-8 lg:pt-20 lg:pr-8 bg-lightgray ">
+        <h1 class="font-semibold lg:text-xl lg:pb-2">SKAL JEG VÆRE HJEMME?</h1>
+        <p class="">Ønsker du at være hjemme når rengøringshjælpen kommer, eller har du andre ærinder du vil foretage dig imens? Det er helt op til dig om du ønsker at være hjemme mens rengøringsopgaverne bliver udført, og er noget som enhver rengøringshjælp skal respektere. Det handler om, hvad der gør dig tryg, og hvad du har det bedst med. </p>
+    </div>
+    <div class="lg:w-1/3">
+            <img class=" lg:object-right" src="../assets/homeornot.jpg" alt="A couple sitting in armchair with dog in front"/>
+    </div>
+</div>
+
+
 
 
 
  
-    
-    
 <!--Udarbejd en arbejdsplan-sektion-->
     <div>
         <div>
