@@ -57,7 +57,7 @@
 </div>
 
 <!--BOX 4-->
-<div class="flex flex-col justify justify-center w-3/4 mx-auto md:mx-auto md:flex-col md:w-2/3 lg:flex-row md:w-full lg:w-full lg:mx-0">
+<div class="flex flex-col justify justify-center w-3/4 mx-auto md:mx-auto md:flex-col md:w-2/3 lg:flex-row md:w-full lg:w-full lg:mx-0 lg:pb-28">
     <div class="w-full p-4 lg:w-2/4 lg:pl-8 lg:pt-24 lg:pr-8 bg-lightgray ">
         <h1 class="font-semibold text-base pb-2 lg:text-xl lg:pb-2">SKAL JEG VÆRE HJEMME?</h1>
         <p class="text-sm md:text-base lg:text-base">Ønsker du at være hjemme når rengøringshjælpen kommer, eller har du andre ærinder du vil foretage dig imens? Det er helt op til dig om du ønsker at være hjemme mens rengøringsopgaverne bliver udført, og er noget som enhver rengøringshjælp skal respektere. Det handler om, hvad der gør dig tryg, og hvad du har det bedst med. </p>
@@ -72,17 +72,22 @@
 
 
  
-<!--Udarbejd en arbejdsplan-sektion-->
-    <div>
-        <div>
-            <h1>Helloooo</h1>
+<!--Servicefradrag-sektion-->
+    <div class="flex justify justify-center bg-blue lg:h-60 lg:w-full lg:pt-16 lg:mb-20">
+        <div class="lg:w-2/3 text-center">
+            <h1 class="font-semibold lg:text-3xl lg:pb-4">Husk at din rengøringshjælp går ind under ''Servicefradrag''</h1>
+            <p class="lg:text-base">Når du køber privat rengøring, skal du huske at gemme alle dine kvitteringer. Du kan nemlig trække beløb fra på din selvangivelse under rubrikken ”servicefradrag”, det varierer en smule beløbsmæssigt fra indkomstår til indkomstår, hvor stort et beløb du kan trække fra.</p>
         </div>
     </div>
 </main>
 </template>
+
+
   
 <script setup>
 </script>
   
+
+
 <style lang="scss" scoped>
 </style>
