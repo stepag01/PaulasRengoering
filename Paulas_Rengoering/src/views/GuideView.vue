@@ -73,7 +73,7 @@
 
  
 <!--Servicefradrag-sektion-->
-    <div class="flex justify justify-center bg-blue h-52 max-h-32 min-h-60 w-full mt-16 mb-20 pt-6 px-8 md:h-32 md:max-h-40 md:pt-16 md:mb-16 lg:h-60 lg:w-full lg:pt-10 lg:mb-20">
+    <div class="flex justify justify-center bg-lightgray h-52 max-h-32 min-h-60 w-full mt-16 mb-20 pt-6 px-8 md:h-32 md:max-h-40 md:pt-16 md:mb-16 lg:h-60 lg:w-full lg:pt-10 lg:mb-20">
         <div class="lg:w-2/3 lg:text-center">
             <h1 class="font-semibold text-lg md:text-2xl lg:text-3xl lg:pb-4">Husk at din rengøringshjælp går ind under ''Servicefradrag''</h1>
             <p class="text-sm md:text-base lg:text-base">Når du køber privat rengøring, skal du huske at gemme alle dine kvitteringer. Du kan nemlig trække beløb fra på din selvangivelse under rubrikken ”servicefradrag”, det varierer en smule beløbsmæssigt fra indkomstår til indkomstår, hvor stort et beløb du kan trække fra.</p>
