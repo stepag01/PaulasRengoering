@@ -49,6 +49,7 @@
         <h3 class="text-lg font-semibold pb-4 md:text-xl lg:text-2xl">PAULAS RENGØRING</h3>
         <p class="text-sm font-semibold pb-1 lg:text-base">OVER 10 ÅRS ERFARING</p>
         <p class="text-sm lg:text-base">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nobis deserunt cupiditate accusamus quasi ipsum. Illo velit consectetur aliquid consequuntur numquam, accusamus harum, vero mollitia dolorum tenetur, molestias rerum consequatur ab.</p>
+        <button class="bg-blue hover:bg-darkblue text-white text-sm font-bold py-3 md:py-2 px-4 mt-4 rounded-full">Kontakt mig</button>
     </div>
 </div>
 
