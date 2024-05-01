@@ -55,14 +55,24 @@
 
 
 <!--Headline-->
-<div class="flex justify justify-center">
-    <h1 class="">TILLIDSFULDT & TRYGT SAMARBEJDE</h1>
+<div class="flex justify justify-center mt-8">
+    <h1 class="text-base font-semibold">TILLIDSFULDT & TRYGT SAMARBEJDE</h1>
 </div>
 
 
 
 <!--PaulasRengøring-Privat-sektion-->
+<div class="flex flex-col justify justify-center h-1/2 w-full p-8 md:flex-row md:w-full lg:w-full">
+    <div class="bg-lightgray p-4 md:w-1/2 md:pl-4 md:pt-2 lg:p-10">
+        <h1 class="text-xs font-semibold pb-2 md:pb-2 lg:text-sm lg:pb-2">OM PAULA</h1>
+        <h3 class="text-lg font-semibold pb-4 md:text-base lg:text-2xl">JEG VÆRDSÆTTER TILLID & TRYGHED I DET SAMARBEJDE VI INDGR I</h3>
+        <p class="text-sm lg:text-base lg">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nobis deserunt cupiditate accusamus quasi ipsum. Illo velit consectetur aliquid consequuntur numquam, accusamus harum, vero mollitia dolorum tenetur, molestias rerum consequatur ab.</p>
+    </div>
 
+    <div class="md:w-1/2">
+        <img src="../assets/woman.jpg" alt="Woman smiling">
+    </div>
+</div>
 </template>
 
 <script setup>
