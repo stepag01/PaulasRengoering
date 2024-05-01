@@ -16,9 +16,9 @@
     <div class="p-6 mt-8 md:p-16 bg-lightgray lg:w-2/4 lg:pl-8 lg:pt-4 lg:mt-0 lg:pr-8">
         <h1 class="font-semibold text-sm pb-2 md:pb-10 lg:text-sm lg:pb-6">MINE VÆRDISÆT</h1>
         <h3 class="font-semibold lg:text-base lg:pb-2">TILLID</h3>
-        <p class="pb-4 md:pb-8 lg:text-base lg:pb-6">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+        <p class="pb-8 md:pb-8 lg:text-base lg:pb-6">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
         <h3 class="font-semibold lg:text-lg lg:pb-2">KUNDETILFREDSHED</h3>
-        <p class="pb-4 md:pb-8 lg:text-base lg:pb-10">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+        <p class="pb-8 md:pb-8 lg:text-base lg:pb-10">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
         <h3 class="font-semibold text-base lg:text-lg lg:pb-2">TÆT SAMARBEJDE</h3>
         <p class="text-sm md:text-base lg:text-base">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
     </div>
