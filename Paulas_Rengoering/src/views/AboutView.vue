@@ -39,16 +39,16 @@
 </div>
 
 <!--PaulasRengøring-Erhverv-sektion-->
-<div class="flex flex-col justify justify-center h-1/2 w-full p-8 md:flex-row md:w-full">
+<div class="flex flex-col justify justify-center h-1/2 w-full p-8 md:flex-row md:w-full lg:w-full">
     <div class="md:w-1/2">
-        <img src="../assets/Elderly-man.jpg" alt="">
+        <img src="../assets/Elderly-man.jpg" alt="Elderly man">
     </div>
 
-    <div class="bg-lightgray p-4 md:w-1/2 md:pl-4 md:pt-2">
-        <h1 class="text-xs font-semibold pb-2 md:pb-0">OM FIRMAET</h1>
-        <h3 class="text-lg font-semibold pb-4 md:text-xl">PAULAS RENGØRING</h3>
-        <p class="text-sm font-semibold pb-1">OVER 10 ÅRS ERFARING</p>
-        <p class="text-sm">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nobis deserunt cupiditate accusamus quasi ipsum. Illo velit consectetur aliquid consequuntur numquam, accusamus harum, vero mollitia dolorum tenetur, molestias rerum consequatur ab.</p>
+    <div class="bg-lightgray p-4 md:w-1/2 md:pl-4 md:pt-2 lg:p-10">
+        <h1 class="text-xs font-semibold pb-2 md:pb-0 lg:text-sm lg:pb-2">OM FIRMAET</h1>
+        <h3 class="text-lg font-semibold pb-4 md:text-xl lg:text-2xl">PAULAS RENGØRING</h3>
+        <p class="text-sm font-semibold pb-1 lg:text-base">OVER 10 ÅRS ERFARING</p>
+        <p class="text-sm lg:text-base">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nobis deserunt cupiditate accusamus quasi ipsum. Illo velit consectetur aliquid consequuntur numquam, accusamus harum, vero mollitia dolorum tenetur, molestias rerum consequatur ab.</p>
     </div>
 </div>
 
