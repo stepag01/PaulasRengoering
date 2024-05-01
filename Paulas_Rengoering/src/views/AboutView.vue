@@ -57,20 +57,21 @@
 
 <!--Headline-->
 <div class="flex justify justify-center mt-8 lg:mt-20">
-    <h1 class="text-base font-semibold">TILLIDSFULDT & TRYGT SAMARBEJDE</h1>
+    <h1 class="text-base font-semibold md:text-xl lg:text-2xl">TILLIDSFULDT & TRYGT SAMARBEJDE</h1>
 </div>
 
 
 
 <!--PaulasRengøring-Privat-sektion-->
-<div class="flex flex-col justify justify-center h-1/2 w-full p-8 md:flex-row md:w-full lg:w-full">
+<div class="flex flex-col justify justify-center h-1/2 w-full p-8 md:flex-row md:w-full lg:w-full lg:m-8">
     <div class="bg-lightgray p-4 md:w-1/2 md:pl-4 md:pt-2 lg:p-10">
         <h1 class="text-xs font-semibold pb-2 md:pb-2 lg:text-sm lg:pb-2">OM PAULA</h1>
         <h3 class="text-lg font-semibold pb-4 md:text-base lg:text-2xl">JEG VÆRDSÆTTER TILLID & TRYGHED I DET SAMARBEJDE VI INDGR I</h3>
         <p class="text-sm lg:text-base lg">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nobis deserunt cupiditate accusamus quasi ipsum. Illo velit consectetur aliquid consequuntur numquam, accusamus harum, vero mollitia dolorum tenetur, molestias rerum consequatur ab.</p>
+        <button class="bg-blue hover:bg-darkblue text-white text-sm font-bold py-3 md:py-2 px-4 mt-4 rounded-full mb-4">Kontakt mig</button>
     </div>
 
-    <div class="md:w-1/2">
+    <div class="md:w-1/2 lg:w-1/2">
         <img src="../assets/woman.jpg" alt="Woman smiling">
     </div>
 </div>
