@@ -148,14 +148,15 @@ import { RouterLink, RouterView } from 'vue-router'
 </template>
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-  const navbarToggle = document.getElementById("navbarToggle");
-  const menuItems = document.getElementById("menuItems");
+//
+// document.addEventListener("DOMContentLoaded", function() {
+//   const navbarToggle = document.getElementById("navbarToggle");
+//   const menuItems = document.getElementById("menuItems");
 
-  navbarToggle.addEventListener("click", function() {
-    menuItems.classList.toggle("hidden");
-  });
-});
+//   navbarToggle.addEventListener("click", function() {
+//     menuItems.classList.toggle("hidden");
+//   });
+// });
 //DER ER NOGET GALT MED DETTE STYKKE KODE, DER KOMMER EN FEJL NÅR JEG PRØVER AT KØRE DET!!!
 
 // Når der crolles, ændres navbaren til en blå farve. 

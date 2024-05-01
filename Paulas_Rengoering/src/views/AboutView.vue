@@ -55,7 +55,7 @@
 
 
 <!--Headline-->
-<div class="flex justify justify-center mt-8">
+<div class="flex justify justify-center mt-8 lg:mt-20">
     <h1 class="text-base font-semibold">TILLIDSFULDT & TRYGT SAMARBEJDE</h1>
 </div>
 
