@@ -11,19 +11,19 @@
     </div>
 </section>
 
-
-<div class="flex flex-col justify justify-center w-3/4 mb-16 mx-auto h-1/2 lg:flex-row lg:pt-20 lg:w-full lg:mx-0 lg:mb-20">
-    <div class="lg:w-2/4 lg:pl-8 lg:pt-8 lg:pr-8 bg-lightgray">
-        <h1 class="font-semibold lg:text-base lg:pb-10">MINE VÆRDISÆT</h1>
-        <h3 class="font-semibold lg:text-xl lg:pb-2">TILLID</h3>
-        <p class="lg:text-base lg:pb-10">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-        <h3 class="font-semibold lg:text-xl lg:pb-2">KUNDETILFREDSHED</h3>
-        <p class="lg:text-base lg:pb-10">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-        <h3 class="font-semibold text-base pb-2 lg:text-xl lg:pb-2">TÆT SAMARBEJDE</h3>
+<!--Value-section-->
+<div class="flex flex-col justify justify-center w-3/4 mb-16 mx-auto h-1/2 lg:flex-row md:w-full lg:w-full lg:mx-auto lg:mt-10 lg:mb-20">
+    <div class="p-6 mt-8 md:p-16 bg-lightgray lg:w-2/4 lg:pl-8 lg:pt-4 lg:mt-0 lg:pr-8">
+        <h1 class="font-semibold text-sm pb-2 md:pb-10 lg:text-sm lg:pb-6">MINE VÆRDISÆT</h1>
+        <h3 class="font-semibold lg:text-base lg:pb-2">TILLID</h3>
+        <p class="pb-4 md:pb-8 lg:text-base lg:pb-6">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+        <h3 class="font-semibold lg:text-lg lg:pb-2">KUNDETILFREDSHED</h3>
+        <p class="pb-4 md:pb-8 lg:text-base lg:pb-10">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+        <h3 class="font-semibold text-base lg:text-lg lg:pb-2">TÆT SAMARBEJDE</h3>
         <p class="text-sm md:text-base lg:text-base">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-      </div>
+    </div>
       
-    <div class="lg:w-1/3">
+    <div class="hidden lg:block lg:w-1/3">
             <img class="" src="../assets/value.jpg" alt="Woman sitting at desk with computer"/>
     </div>
 </div>
